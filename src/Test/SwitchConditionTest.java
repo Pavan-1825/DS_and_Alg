@@ -1,7 +1,7 @@
 package Test;
 
-import com.ds_alg.SwithCondition;
-import com.ds_alg.Week;
+import datastructures_algorithms.SwithCondition;
+import datastructures_algorithms.Week;
 
 public class SwitchConditionTest {
 

@@ -1,6 +1,6 @@
 package Test;
 
-import com.ds_alg.WhileCondition;
+import datastructures_algorithms.WhileCondition;
 
 public class WhileCondtionTest {
 

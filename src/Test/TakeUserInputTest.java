@@ -1,6 +1,6 @@
 package Test;
 
-import com.ds_alg.TakeUserInput;
+import datastructures_algorithms.TakeUserInput;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 package Test;
 
-import com.ds_alg.CreditCard;
+import datastructures_algorithms.CreditCard;
 
 public class CreditCardTest {
 

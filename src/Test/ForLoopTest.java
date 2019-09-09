@@ -1,6 +1,6 @@
 package Test;
 
-import com.ds_alg.ForLoop;
+import datastructures_algorithms.ForLoop;
 
 public class ForLoopTest {
 
