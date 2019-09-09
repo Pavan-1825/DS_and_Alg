@@ -1,6 +1,6 @@
-package Test.AssignmentsTest;
+package Test.chapter_1_Test;
 
-import Assignments.BaseTypes;
+import Assignments.chapter_1.BaseTypes;
 
 public class BaseTypesTest {
 
