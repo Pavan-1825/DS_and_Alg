@@ -1,4 +1,4 @@
-package com.ds_alg;
+package datastructures_algorithms;
 
 public class CreditCard {
 

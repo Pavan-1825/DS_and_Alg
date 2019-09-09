@@ -1,4 +1,4 @@
-package com.ds_alg;
+package datastructures_algorithms;
 
 import java.util.Random;
 

@@ -1,6 +1,4 @@
-package com.ds_alg;
-
-import com.ds_alg.Week;
+package datastructures_algorithms;
 
 public class SwithCondition {
 
