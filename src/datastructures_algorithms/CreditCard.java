@@ -33,7 +33,9 @@ public class CreditCard {
     }
 
     public void makePayment(double amount) {
-        balance -= amount;
+        if(balance>=amount) {
+            balance -= amount;
+        }
     }
 
     public static void printSummary(CreditCard creditCard){
@@ -44,4 +46,9 @@ public class CreditCard {
         System.out.println("Balance: "+creditCard.balance);
 
     }
+
+    public void updateCreditLimit(int updatedLimit){
+        this.limit = updatedLimit;
+    }
+
 }
