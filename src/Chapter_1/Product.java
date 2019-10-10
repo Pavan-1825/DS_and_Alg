@@ -1,4 +1,4 @@
-package Assignments;
+package Chapter_1;
 
 public class Product {
 

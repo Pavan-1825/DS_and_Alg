@@ -1,6 +1,6 @@
-package Test.chapter_1_Test;
+package Test.Chapter_1.Assigments;
 
-import Assignments.chapter_1.RemovePunctuations;
+import Chapter_1.Assignment.RemovePunctuations;
 
 import java.util.Scanner;
 

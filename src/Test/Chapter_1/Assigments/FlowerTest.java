@@ -1,6 +1,6 @@
-package Test.chapter_1_Test;
+package Test.Chapter_1.Assigments;
 
-import Assignments.chapter_1.Flower;
+import Chapter_1.Assignment.Flower;
 
 public class FlowerTest {
 

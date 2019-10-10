@@ -1,4 +1,4 @@
-package Test;
+package Test.Chapter_1.Assigments;
 
 import datastructures_algorithms.CreditCard;
 

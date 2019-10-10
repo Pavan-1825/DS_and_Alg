@@ -1,6 +1,6 @@
-package Test.chapter_1_Test;
+package Test.Chapter_1.Assigments;
 
-import Assignments.chapter_1.NormVector;
+import Chapter_1.Assignment.NormVector;
 
 import java.util.Scanner;
 

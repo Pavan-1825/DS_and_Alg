@@ -1,6 +1,6 @@
-package Test.chapter_1_Test;
+package Test.Chapter_1.Assigments;
 
-import Assignments.chapter_1.DistinctElements;
+import Chapter_1.Assignment.DistinctElements;
 
 /*
  * a Java method that takes an array of float values and determines if all the numbers are different from each other (that is, they are distinct).

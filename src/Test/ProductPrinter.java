@@ -1,6 +1,6 @@
 package Test;
 
-import Assignments.Product;
+import Chapter_1.Product;
 
 public class ProductPrinter {
 

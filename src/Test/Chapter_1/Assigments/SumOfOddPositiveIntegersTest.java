@@ -1,7 +1,6 @@
-package Test.chapter_1_Test;
+package Test.Chapter_1.Assigments;
 
-import Assignments.chapter_1.SumOfOddPositiveIntegers;
-import Assignments.chapter_1.SumOfPositiveIntegers;
+import Chapter_1.Assignment.SumOfOddPositiveIntegers;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 package Test;
 
-import Assignments.chapter_1.IsMultiple;
+import Chapter_1.Assignment.IsMultiple;
 
 import java.util.Scanner;
 

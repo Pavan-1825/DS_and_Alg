@@ -1,6 +1,6 @@
-package Test.chapter_1_Test;
+package Test.Chapter_1.Assigments;
 
-import Assignments.chapter_1.IsEven;
+import Chapter_1.Assignment.IsEven;
 
 import java.util.Scanner;
 
