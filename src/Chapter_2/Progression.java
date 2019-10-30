@@ -18,15 +18,15 @@ public class Progression {
         return answer;
     }
 
-    private void advance(){
+    protected void advance(){
         current++;
     }
 
-    public void printSummary(int n){
-        System.out.println(nextValue());
+    public void printProgression(int n){
+        System.out.print(nextValue());
         for(int i=1; i<n; i++){
-            System.out.println(" "+nextValue());
-            System.out.println();
+            System.out.print(" "+nextValue());
         }
+        System.out.println();
     }
 }
